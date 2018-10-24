@@ -1,0 +1,23 @@
+[A]
+A="192.168.3.241"
+
+[A-Scan]
+A-Scan="192.168.3.231"
+
+[A-Scan 2]
+A-Scan 2="0.0.0.0"
+
+[B]
+B="192.168.3.242"
+
+[B-Scan]
+B-Scan="192.168.3.232"
+
+[C]
+C="192.168.3.243"
+
+[C-Scan]
+C-Scan="0.0.0.0"
+
+[My Computer]
+My Computer="localhost"
